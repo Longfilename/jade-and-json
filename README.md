@@ -6,7 +6,7 @@ Store your content in a JSON file instead of in a Jade file with markup. This gu
 
 ## How
 
-![diagram the Jade + JSON build process](readme-diagram.png?raw=true “”)
+![diagram the Jade + JSON build process](readme-diagram.gif?raw=true “”)
 
 ## Why
 
