@@ -1,0 +1,175 @@
+{
+  "title": "Box Office Mojo (1984)",
+  "movies": [
+    {
+      "rank": 1,
+      "title": "Beverly Hills Cop",
+      "released": "12/5/84"
+    },
+    {
+      "rank": 2,
+      "title": "Ghostbusters",
+      "released": "6/8/84"
+    },
+    {
+      "rank": 3,
+      "title": "Indiana Jones and the Temple of Doom",
+      "released": "5/23/84"
+    },
+    {
+      "rank": 4,
+      "title": "Gremlins",
+      "released": "6/8/84"
+    },
+    {
+      "rank": 5,
+      "title": "The Karate Kid",
+      "released": "6/22/84"
+    },
+    {
+      "rank": 6,
+      "title": "Police Academy",
+      "released": "3/23/84"
+    },
+    {
+      "rank": 7,
+      "title": "Footloose",
+      "released": "2/17/84"
+    },
+    {
+      "rank": 8,
+      "title": "Romancing the Stone",
+      "released": "3/30/84"
+    },
+    {
+      "rank": 9,
+      "title": "Star Trek III: The Search for Spock",
+      "released": "6/1/84"
+    },
+    {
+      "rank": 10,
+      "title": "Splash",
+      "released": "3/9/84"
+    },
+    {
+      "rank": 11,
+      "title": "Purple Rain",
+      "released": "7/27/84"
+    },
+    {
+      "rank": 12,
+      "title": "Amadeus",
+      "released": "9/21/84"
+    },
+    {
+      "rank": 15,
+      "title": "Greystoke: The Legend of Tarzan",
+      "released": "3/30/84"
+    },
+    {
+      "rank": 16,
+      "title": "Revenge of the Nerds",
+      "released": "7/20/84"
+    },
+    {
+      "rank": 20,
+      "title": "Red Dawn",
+      "released": "8/10/84"
+    },
+    {
+      "rank": 21,
+      "title": "The Terminator",
+      "released": "10/26/84"
+    },
+    {
+      "rank": 27,
+      "title": "Conan the Destroyer",
+      "released": "6/29/84"
+    },
+    {
+      "rank": 28,
+      "title": "Dune",
+      "released": "12/14/84"
+    },
+    {
+      "rank": 29,
+      "title": "The Gods Must Be Crazy",
+      "released": "4/6/84"
+    },
+    {
+      "rank": 30,
+      "title": "Starman",
+      "released": "12/14/84"
+    },
+    {
+      "rank": 31,
+      "title": "The Last Starfighter",
+      "released": "7/13/84"
+    },
+    {
+      "rank": 32,
+      "title": "Cannonball Run II",
+      "released": "6/29/84"
+    },
+    {
+      "rank": 40,
+      "title": "A Nightmare on Elm Street",
+      "released": "11/9/84"
+    },
+    {
+      "rank": 41,
+      "title": "The Woman in Red",
+      "released": "8/17/84"
+    },
+    {
+      "rank": 44,
+      "title": "Sixteen Candles",
+      "released": "5/4/84"
+    },
+    {
+      "rank": 46,
+      "title": "Missing in Action",
+      "released": "11/16/84"
+    },
+    {
+      "rank": 49,
+      "title": "Oh, God! You Devil!",
+      "released": "11/9/84"
+    },
+    {
+      "rank": 60,
+      "title": "Johnny Dangerously",
+      "released": "12/21/84"
+    },
+    {
+      "rank": 61,
+      "title": "Firestarter",
+      "released": "5/11/84"
+    },
+    {
+      "rank": 63,
+      "title": "Breakin' 2: Electric Boogaloo",
+      "released": "12/21/84"
+    },
+    {
+      "rank": 66,
+      "title": "Supergirl",
+      "released": "11/21/84"
+    },
+    {
+      "rank": 67,
+      "title": "Ice Pirates",
+      "released": "3/16/84"
+    },
+    {
+      "rank": 81,
+      "title": "Cloak and Dagger",
+      "released": "8/10/84"
+    },
+    {
+      "rank": 93,
+      "title": "Ninja 3: The Domination",
+      "released": "9/14/84"
+    }
+  ]
+}

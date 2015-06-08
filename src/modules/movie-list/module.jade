@@ -1,0 +1,18 @@
+// in case content wasn't previously defined - prevent Jade from throwing an error;
+- var content = content || {};
+
+section
+    h1=content.title
+    table
+        thead
+            tr
+                th Rank
+                th Movie Title
+                th Release Date
+        tbody
+            - (content.movies) && content.movies.forEach(function (movie) {
+                tr
+                    td=movie.rank
+                    td=movie.title
+                    td=movie.released
+            - });

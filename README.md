@@ -1,2 +1,10 @@
-# jade-and-json
-Load JSON content with Node to make it available to Jade.
+# Jade + JSON
+
+## Setting up your development environment
+
+- Prerequisites
+-- node
+- Installation of dependencies
+-- npm install
+- Running
+-- gulp

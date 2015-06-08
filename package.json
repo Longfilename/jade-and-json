@@ -1,0 +1,13 @@
+{
+  "name": "Jade + JSON proof of concept",
+  "version": "0.0.1",
+  "description": "This POC loads JSON data on the node server, then feeds it into the Jade engine so we can render pages/modules with JSON data.",
+  "dependencies": {
+    "file": "^0.2.2",
+    "gulp": "^3.8.6",
+    "gulp-jade": "^0.7.0",
+    "gulp-webserver": "^0.9.0"
+  },
+  "private": true,
+  "devDependencies": {}
+}
