@@ -1,5 +1,5 @@
 {
-  "name": "Jade + JSON proof of concept",
+  "name": “jade-and-json”,
   "version": "0.0.1",
   "description": "This POC loads JSON data on the node server, then feeds it into the Jade engine so we can render pages/modules with JSON data.",
   "dependencies": {
